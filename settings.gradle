@@ -1,0 +1,2 @@
+rootProject.name='Notes_ML'
+include ':app'
